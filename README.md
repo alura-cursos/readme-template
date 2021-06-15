@@ -15,7 +15,7 @@ Se possível, apresente um exemplo visual do projeto, seja gif, imagens ou víde
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-**Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais)**: As técnicas e tecnologias utilizadas pra isso são:
+**Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais)**:
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
