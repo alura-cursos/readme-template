@@ -29,3 +29,7 @@ Se possível, apresente um exemplo visual do projeto, seja gif, imagens ou víde
 ## 🛠️ Abrir e rodar o projeto
 
 **Apresente as instruções necessárias para abrir e executar o projeto**
+
+## 📚 Mais informações do curso
+
+**Faça um CTA para o curso do projeto**
