@@ -9,12 +9,13 @@ Adicione a imagem de capa com o tema do seu projeto:
 
 Após adicionar a imagem, também modifique as configurações do projeto para garantir que a imagem vai ser carregada como thumbnail:
 
-<details>
-  <summary><b>Como adicionar thumbnail?<b/></summary>
-  
 **Settings** > **Options** > **Social preview** > **Edit** > **Upload an image...**
 
+<details>
+  <summary><b>Demonstração da adição de thumbnail<b/></summary>
+    
 ![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
+    
 </details>
 
 
