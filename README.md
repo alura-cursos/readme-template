@@ -1,5 +1,19 @@
-> Template para personalizar readme dos projetos da Alura. O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base e, se preferir, ajuste os detalhes conforme sua necessidade.
-> Este template foi baseado [neste readme](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md), você pode considerá-lo um exemplo concreto.
+## Readme template da Alura
+
+Template para personalizar readme dos projetos da Alura. O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base e, se preferir, ajuste os detalhes conforme sua necessidade.
+
+## Exemplos de readmes
+
+<details>
+  <summary><b>Mobile</b></summary>
+    
+- [Android](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md)
+    
+</details>
+
+Ao criar o seu readme, remova todas as informações acima e mantenha apenas a imagem de capa e o conteúdo restante a partir do títutlo **"Nome do projeto"**.
+
+## Imagem de capa
 
 Adicione a imagem de capa com o tema do seu projeto:
 
@@ -17,9 +31,7 @@ Após adicionar a imagem, também modifique as configurações do projeto para g
 ![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
     
 </details>
-
-
-
+  
 # Nome do projeto
 
 Descreva o que é o projeto e o que ele faz
