@@ -9,6 +9,7 @@ Template para personalizar readme dos projetos da Alura. O objetivo deste templa
     
 - [Android](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md)
 - [React Native](https://github.com/alura-cursos/react-native-comecando-do-zero/blob/main/README.md)
+- [Flutter](https://github.com/alura-cursos/flutter-nuvigator/blob/start/README.md)
     
 </details>
 
