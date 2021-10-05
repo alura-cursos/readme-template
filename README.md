@@ -10,10 +10,17 @@ Template para personalizar readme dos projetos da Alura. O objetivo deste templa
 - [Android](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md)
 - [React Native](https://github.com/alura-cursos/react-native-comecando-do-zero/blob/main/README.md)
 - [Flutter](https://github.com/alura-cursos/flutter-nuvigator/blob/start/README.md)
-    
+  
 </details>
 
-Ao criar o seu readme, remova todas as informações acima e mantenha apenas a imagem de capa e o conteúdo restante a partir do títutlo **"Nome do projeto"**.
+<details>
+  <summary><b>Front End</b></summary>
+    
+- [JavaScript](https://github.com/vanessametonini/aluramidi-curso/blob/master/README.md) 
+ 
+</details>
+
+Ao criar o seu readme, remova todas as informações acima e mantenha apenas a imagem de capa e o conteúdo restante a partir do título **"Nome do projeto"**.
 
 ## Imagem de capa
 
@@ -65,4 +72,4 @@ Se possível, apresente um exemplo visual do projeto, seja gif, imagens ou víde
 
 ## 📚 Mais informações do curso
 
-**Faça um CTA para o curso do projeto**
+**Faça um CTA (_call to action_) para o curso do projeto**
