@@ -1,6 +1,6 @@
 ## Readme template da Alura
 
-Template para personalizar readme dos projetos da [Alura](https://www.alura.com.br/). O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base e, se preferir, ajuste os detalhes conforme sua necessidade.
+Template para personalizar readme dos projetos da [Alura](https://www.alura.com.br/). O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base, mas se preferir, ajuste os detalhes conforme sua necessidade e caso queira, confira esse [artigo](https://www.alura.com.br/artigos/escrever-bom-readme) como fonte de pesquisa.
 
 ## Exemplos de readmes
 
@@ -22,6 +22,7 @@ Template para personalizar readme dos projetos da [Alura](https://www.alura.com.
   <summary><b>Programação</b></summary>
   
 - [Kotlin](https://github.com/alura-cursos/kotlin-introducao-orientacao-a-objetos/blob/main/README.md)
+- [Java](https://github.com/gui-lirasilva/Edige-POO/blob/master/README.md)
   
 </details>
 
@@ -34,6 +35,8 @@ Adicione a imagem de capa com o tema do seu projeto:
 ![Thumbnail GitHub](https://user-images.githubusercontent.com/8989346/123303345-171fc980-d4f4-11eb-84ae-cb0e49bfb126.png)
 
 > Você pode pegar a imagem a partir [deste template](https://docs.google.com/presentation/d/1im_-_spDdNEEsfrmjeZet2ZzVKjG-sQSBWfPFJhZ4q0/edit#slide=id.gb6f422ab58_0_111).
+
+> Ou gerar neste [site](https://alura-github-thumbnail-generator.vercel.app/).
 
 Após adicionar a imagem, também modifique as configurações do projeto para garantir que a imagem vai ser carregada como thumbnail:
 
