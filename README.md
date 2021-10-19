@@ -1,6 +1,6 @@
 ## Readme template da Alura
 
-Template para personalizar readme dos projetos da [Alura](https://www.alura.com.br/). O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base, mas se preferir, ajuste os detalhes conforme sua necessidade e caso queira, confira esse [artigo](https://www.alura.com.br/artigos/escrever-bom-readme) como fonte de pesquisa.
+Template para personalizar readme dos projetos da [Alura](https://www.alura.com.br/). O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base, mas se preferir, ajuste os detalhes conforme sua necessidade e caso queira, [confira esse artigo que ensina a personalizar readmes em geral](https://www.alura.com.br/artigos/escrever-bom-readme).
 
 ## Exemplos de readmes
 
