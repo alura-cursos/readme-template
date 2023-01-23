@@ -36,7 +36,7 @@ Adicione a imagem de capa com o tema do seu projeto:
 
 > Você pode pegar a imagem a partir [deste template](https://docs.google.com/presentation/d/1im_-_spDdNEEsfrmjeZet2ZzVKjG-sQSBWfPFJhZ4q0/edit#slide=id.gb6f422ab58_0_111).
 
-> Ou gerar neste [site](https://alura-github-thumbnail-generator.vercel.app/).
+> Ou gerar neste [site](https://alurathumbnail.vercel.app/).
 
 Após adicionar a imagem, também modifique as configurações do projeto para garantir que a imagem vai ser carregada como thumbnail:
 
